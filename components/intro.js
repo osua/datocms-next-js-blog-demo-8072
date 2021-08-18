@@ -5,7 +5,7 @@ export default function Intro() {
         Modus NYC.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        An online Traveler's Toolkit, a Swiss Army Knife, for your inner voyager{' '}
+        An online Traveler's Toolkit, a Swiss Army Knife for your inner voyager{' '}
         .
       </h4>
     </section>
